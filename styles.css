@@ -1,0 +1,15 @@
+* {
+  font-family: "Roboto Condensed", serif;
+  color: #bba7a7;
+  background-color: #121212;
+  overflow: hidden;
+  text-align: center;
+}
+
+h2 {
+  margin: 30px;
+}
+
+li {
+  margin-bottom: 10px;
+}
